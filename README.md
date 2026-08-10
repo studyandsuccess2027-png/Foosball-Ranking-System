@@ -49,79 +49,79 @@ Players can record matches, improve their **Elo rating**, compete in tournaments
 
 ### Dashboard
 
-![Dashboard](./public/screenshots/admin-dashboard.png)
+![Dashboard](client/public/screenshots/admin-dashboard.png)
 
 ### Create-team
 
-![Create-team](./public/screenshots/create-team.png)
+![Create-team](client/public/screenshots/create-team.png)
 
 ### Elo-history
 
-![Elo-history](./public/screenshots/elo-history.png)
+![Elo-history](client/public/screenshots/elo-history.png)
 
 ### Head-to-Head
 
-![Head-to-Head](./public/screenshots/head-to-head.png)
+![Head-to-Head](client/public/screenshots/head-to-head.png)
 
 ### Invitation
 
-![Invitation](./public/screenshots/invitation.png)
+![Invitation](client/public/screenshots/invitation.png)
 
 ### Leaderboard
 
-![Leaderboard](./public/screenshots/leaderboard.png)
+![Leaderboard](client/public/screenshots/leaderboard.png)
 
 ### Login
 
-![Login](./public/screenshots/login-page.png)
+![Login](client/public/screenshots/login-page.png)
 
 ### Register
 
-![Register](./public/screenshots/register.png)
+![Register](client/public/screenshots/register.png)
 
 ### Manage-players by admin
 
-![Manage-players](./public/screenshots/manage-players.png)
+![Manage-players](client/public/screenshots/manage-players.png)
 
 ### Manage-team by admin
 
-![Manage-team](./public/screenshots/manage-team.png)
+![Manage-team](client/public/screenshots/manage-team.png)
 
 ### Manage-tournament by admin
 
-![Manage-tournament](./public/screenshots/manage-tournament.png)
+![Manage-tournament](client/public/screenshots/manage-tournament.png)
 
 ### Match-history
 
-![Match-history](./public/screenshots/match-history.png)
+![Match-history](client/public/screenshots/match-history.png)
 
 ### Manage-scheduling
 
-![Manage-scheduling](./public/screenshots/match-scheduling.png)
+![Manage-scheduling](client/public/screenshots/match-scheduling.png)
 
 ### Notification
 
-![Notification](./public/screenshots/notification.png)
+![Notification](client/public/screenshots/notification.png)
 
 ### Player-dashboard
 
-![Player-dashboard](./public/screenshots/player-dashboard.png)
+![Player-dashboard](client/public/screenshots/player-dashboard.png)
 
 ### Player-profile
 
-![Player-profile](./public/screenshots/profile-page.png)
+![Player-profile](client/public/screenshots/profile-page.png)
 
 ### Statics
 
-![Statics](./public/screenshots/statics.png)
+![Statics](client/public/screenshots/statics.png)
 
 ### Submit-match
 
-![Submit-match](./public/screenshots/submit-match.png)
+![Submit-match](client/public/screenshots/submit-match.png)
 
 ### Tournament
 
-![Tournament](./public/screenshots/tournament.png)
+![Tournament](client/public/screenshots/tournament.png)
 
 ---
 
@@ -589,7 +589,7 @@ REST API development
 React frontend architecture
 Flask backend architecture
 JWT authentication
-SQL database design
+SQLite database design
 Elo rating algorithms
 Ranking systems
 Tournament management
